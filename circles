@@ -119,8 +119,6 @@ def make_circle(point0x, point0y, point1x, point1y, point2x, point2y):
     
     radius = distance(xcenter, ycenter, point0x, point0y)
     
-#   print(xcenter, ycenter, radius)
-    
     return xcenter, ycenter, radius
 
 # Run GUI - uncomment the line below after you have
